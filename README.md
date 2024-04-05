@@ -41,7 +41,7 @@ The dataset used in this project contains textual data along with corresponding 
 
 ## Usage
 1. Install the required dependencies listed in `requirements.txt`.
-2. Run `preprocess.py` to preprocess the dataset and generate TF-IDF features.
+2. Run `preprocess.py` followed by `nlp.py` to preprocess the dataset and generate TF-IDF features.
 3. Run `train.py` to train the classifiers on the preprocessed data.
 4. Evaluate the trained models using `evaluate.py`.
 
