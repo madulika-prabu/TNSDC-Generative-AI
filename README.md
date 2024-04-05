@@ -12,7 +12,8 @@ The dataset used in this project contains textual data along with corresponding 
 
 ![image](https://github.com/madulika-prabu/naanmudhalvan_genAI/assets/131234604/957a5396-5e89-4ff8-a703-22a77bc5c92c)
 
-![image](https://github.com/madulika-prabu/naanmudhalvan_genAI/assets/131234604/45d2471a-26b3-4492-8868-9e5318978c02)
+![image (1)](https://github.com/madulika-prabu/TNSDC-Generative-AI/assets/131234604/74bb6a3a-bff4-4ed7-a7c8-9b5945a09e69)
+
 
 
 
