@@ -4,6 +4,9 @@
 ## Overview
 This project aims to classify emotions based on textual data using machine learning techniques. It involves preprocessing text data, training various classifiers, and evaluating their performance.
 
+## Abstract
+This project aims to develop a robust machine learning model for emotion detection based on textual data. Leveraging natural language processing techniques, the dataset is preprocessed to clean, tokenize, and convert text into numerical features using TF-IDF vectorization. Various machine learning algorithms are trained on the preprocessed data, including Random Forest Classifier, Support Vector Machine, Multinomial Naive Bayes Classifier, Gradient Boosting Classifier, and Logistic Regression Classifier. Evaluation metrics such as accuracy, precision, recall, and F1-score are utilized to assess model performance. Additionally, exploratory data analysis techniques are employed to gain insights into the dataset, with visualizations such as word clouds and TF-IDF score distributions aiding in understanding the text data's structure and characteristics. Through this project, the goal is to provide a reliable solution for emotion classification, with potential applications in sentiment analysis, customer feedback analysis, and mental health assessment.
+
 ## Dataset
 The dataset used in this project contains textual data along with corresponding emotion labels. It consists of 839555 samples with 6 features. Download the dataset from https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text 
 
